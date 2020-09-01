@@ -1,2 +1,5 @@
-# Ola-Mundo
- Primeiro repositorio versionado
+# Olá, Mundo!
+ Primeiro repositório versionado
+
+ Repositório criado com base na aula do Guanabara
+ 
